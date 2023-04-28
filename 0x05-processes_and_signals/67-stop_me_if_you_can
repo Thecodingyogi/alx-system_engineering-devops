@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Abash script that stops a process without using kill or killall
+
+pkill -f 7-highlander
