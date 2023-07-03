@@ -2,7 +2,7 @@
 #Installs and configures HAproxy on your server
 
 sudo apt-get update
-sudo apt-get -y instal haproxy
+sudo apt-get -y install haproxy
 
 #configure haproxy configuration to distribute requests using roundrobin algorithm
 echo "
